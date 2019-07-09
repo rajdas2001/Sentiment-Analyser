@@ -13,7 +13,7 @@ Built using Python, it is a simple sentiment analyser built on the Aylien API. F
  _$ python sentinal.py 
  
  
- ### sample output :
+ ### Sample output :
  1. Neutral:
  ![](demo1.png)
  2. Negative:
