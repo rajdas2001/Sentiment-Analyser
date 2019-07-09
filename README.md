@@ -10,7 +10,7 @@ Built using Python, it is a simple sentiment analyser built on the Aylien API. F
 
  **Command format** 
  
- _$ python sentinal.py 
+ '$ python sentinal.py' 
  
  
  ### Sample output :
